@@ -1,57 +1,69 @@
-# Hi, I'm Ankush 👋
+# Hi, I'm Ankush 👋  
 
-> Short bio — 1 line that explains who you are and what you do.  
-> Example: "Software engineer | Open-source enthusiast | Building web apps with React & Node.js"
+> Beginner Developer | BCA Student | Learning Web Development & Programming  
 
 [![Follow on GitHub](https://img.shields.io/github/followers/USERNAME?label=Follow&style=social)](https://github.com/USERNAME)
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_message=online&url=https://USERNAME.github.io)](https://USERNAME.github.io)
+[![Website](https://img.shields.io/website?up_message=online&url=https://USERNAME.github.io)](https://USERNAME.github.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on: ProjectName — short one-line description.
-- 🌱 Learning: Topic or tech you are currently learning.
-- 👯 I’m looking to collaborate on: types of projects (open-source, web, data).
-- 💬 Ask me about: topics you can help with (e.g., React, Node, DevOps).
-- 📫 How to reach me: your email or other contact.
+- 🎓 BCA student (IGNOU)  
+- 🌱 Currently learning **HTML, CSS, JavaScript & C++**
+- 💻 Interested in **Web Development & Game Projects**
+- 👯 Looking to collaborate on **beginner-friendly open-source projects**
+- 💬 Ask me about **HTML, CSS, basic programming**
+- 📫 Reach me at: **fubook26@gmail.com**
 
 ---
 
 ## 🔧 Skills
-- Languages: JavaScript, TypeScript, Python, Java
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, PostgreSQL
-- Tools: Docker, GitHub Actions, VSCode
+- 💻 Languages: HTML, CSS, JavaScript, C++ (Beginner)
+- 🎨 Frontend: HTML5, CSS3
+- 🧰 Tools: Git, GitHub, VS Code
+- 🎮 Game Dev (Basic): JavaScript Games
 
 ---
 
-## 🔭 Highlight Projects
-### [project-one](https://github.com/USERNAME/project-one)  
-Short 1–2 line description. Key tech: React · Node · PostgreSQL
+## 🎮 Game Projects
+### 🕹️ [Guess The Number Game](https://github.com/USERNAME/guess-the-number)
+Simple JavaScript game using logic & DOM manipulation  
+**Tech:** HTML · CSS · JavaScript  
 
-### [project-two](https://github.com/USERNAME/project-two)  
-Short 1–2 line description. Key tech: Next.js · Vercel
+### 🧩 [Tic Tac Toe Game](https://github.com/USERNAME/tic-tac-toe)
+Classic Tic Tac Toe game with basic UI  
+**Tech:** HTML · CSS · JavaScript  
 
-### [project-three](https://github.com/USERNAME/project-three)  
-Short 1–2 line description. Key tech: Python · FastAPI
+### 🐍 [Snake Game](https://github.com/USERNAME/snake-game)
+Keyboard-controlled snake game  
+**Tech:** JavaScript · HTML Canvas  
+
+---
+
+## 🔭 Other Projects
+### 🌐 [Aapna Program Website](https://github.com/USERNAME/aapna-program)
+Personal practice website for HTML & CSS  
+**Tech:** HTML · CSS  
+
+### 📘 [BCA Study Notes](https://github.com/USERNAME/bca-notes)
+Semester-wise notes & practice programs  
+**Tech:** C++ · HTML  
 
 ---
 
 ## 📈 GitHub Stats
-![aapnaprogram's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark)
+---
+
+## 📫 Connect With Me
+- 📧 Email: **fubook26@gmail.com**
+- 🐦 Twitter: [@aapnaprograme](https://twitter.com/aapnaprograme)
+- 🌍 Website: https://USERNAME.github.io
 
 ---
 
-## 📫 Connect
-- Email: @fubook26@g,ail.com  
-- Twitter: [@aapnaprograme](https://twitter.com/yourhandle)  
-- Website: https://USERNAME.github.io
-
----
-
-Thanks for visiting — feel free to say hi 👋
+⭐ Thanks for visiting my profile — keep learning & keep building!
