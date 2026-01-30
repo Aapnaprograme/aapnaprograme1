@@ -42,7 +42,7 @@ Keyboard-controlled snake game
 ---
 
 ## 🔭 Other Projects
-### 🌐 [Aapna Program Website](https://github.com/USERNAME/aapna-program)
+### 🌐 [Aapna Program Website](http://127.0.0.1:5500/aapnaprograme.html#resources)
 Personal practice website for HTML & CSS  
 **Tech:** HTML · CSS  
 
@@ -62,7 +62,7 @@ Semester-wise notes & practice programs
 ## 📫 Connect With Me
 - 📧 Email: **fubook26@gmail.com**
 - 🐦 Twitter: [@aapnaprograme](https://twitter.com/aapnaprograme)
-- 🌍 Website: https://USERNAME.github.io
+- 🌍 Website: http://127.0.0.1:5500/aapnaprograme.html#resources
 
 ---
 
