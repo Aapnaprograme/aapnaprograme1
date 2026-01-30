@@ -39,7 +39,7 @@ Short 1–2 line description. Key tech: Python · FastAPI
 ---
 
 ## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![aapnaprogram's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
@@ -48,8 +48,8 @@ Short 1–2 line description. Key tech: Python · FastAPI
 ---
 
 ## 📫 Connect
-- Email: your.email@example.com  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- Email: @fubook26@g,ail.com  
+- Twitter: [@aapnaprograme](https://twitter.com/yourhandle)  
 - Website: https://USERNAME.github.io
 
 ---
