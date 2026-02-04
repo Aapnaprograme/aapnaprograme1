@@ -62,7 +62,7 @@ Semester-wise notes & practice programs
 ## 📫 Connect With Me
 - 📧 Email: **fubook26@gmail.com**
 - 🐦 Twitter: [@aapnaprograme](https://twitter.com/aapnaprograme)
-- 🌍 Website: http://127.0.0.1:5500/aapnaprograme.html#resources
+- 🌍 Website: [@portfolio website](https://curly-zebra-x5p5qppgj4q7fxv4-5500.app.github.dev/)
 
 ---
 
