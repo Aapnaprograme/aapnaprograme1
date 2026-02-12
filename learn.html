@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduStream | Premium Coding Courses</title>
+    <link rel="stylesheet" href="learn.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="container-nav">
+            <div class="logo">EduStream<span>.</span></div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#courses">All Courses</a></li>
+                <li><a href="#">Resources</a></li>
+            </ul>
+            <div class="search-box">
+                <input type="text" id="courseSearch" placeholder="Search technology..." onkeyup="searchFunction()">
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-content">
+            <span class="hero-tag">New Courses Added!</span>
+            <h1>Level Up Your Engineering Skills</h1>
+            <p>High-quality, curated coding tutorials for developers who want to build amazing products.</p>
+            <div class="hero-btns">
+                <a href="#courses" class="btn">Explore Courses</a>
+                <a href="#" class="btn btn-outline">Join Community</a>
+            </div>
+        </div>
+    </header>
+<section class="stats-bar">
+    <div class="stat-item">
+        <h2 class="counter">50K+</h2>
+        <p>Active Students</p>
+    </div>
+    <div class="stat-item">
+        <h2 class="counter">120+</h2>
+        <p>Free Courses</p>
+    </div>
+    <div class="stat-item">
+        <h2 class="counter">4.9/5</h2>
+        <p>User Rating</p>
+    </div>
+</section>
+    <section class="categories" id="courses">
+        <h2>What do you want to learn today?</h2>
+        <div class="category-buttons">
+            <button class="filter-btn active" onclick="filterCategory('all')">All Tech</button>
+            <button class="filter-btn" onclick="filterCategory('html')">HTML</button>
+            <button class="filter-btn" onclick="filterCategory('css')">CSS</button>
+            <button class="filter-btn" onclick="filterCategory('js')">JavaScript</button>
+            <button class="filter-btn" onclick="filterCategory('cpp')">C++</button>
+            <button class="filter-btn" onclick="filterCategory('python')">Python</button>
+            <button class="filter-btn" onclick="filterCategory('react')">React</button>
+        </div>
+    </section>
+
+    <main class="course-container">
+        <div class="grid" id="courseGrid">
+            
+            <div class="course-card" data-category="html">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/HcOc7P5BMi4" title="HTML Video" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="card-body">
+                    <div class="meta-tags">
+                        <span class="badge">HTML</span>
+                        <span class="level">Beginner</span>
+                    </div>
+                    <h3>Complete HTML Course</h3>
+                    <p>Start your web development journey with tags and semantics.</p>
+                </div>
+            </div>
+
+            <div class="course-card" data-category="css">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/OXGznpKZ_sA" title="CSS Video" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="card-body">
+                    <div class="meta-tags">
+                        <span class="badge">CSS</span>
+                        <span class="level">Intermediate</span>
+                    </div>
+                    <h3>Modern CSS & Layouts</h3>
+                    <p>Master Flexbox, Grid, and beautiful UI designs.</p>
+                </div>
+            </div>
+
+            <div class="course-card" data-category="js">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/W6NZfCO5SIk" title="JS Video" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="card-body">
+                    <div class="meta-tags">
+                        <span class="badge">JavaScript</span>
+                        <span class="level">Advanced</span>
+                    </div>
+                    <h3>JS Logic & DOM</h3>
+                    <p>In-depth look at logic, APIs, and interactive web apps.</p>
+                </div>
+            </div>
+
+            <div class="course-card" data-category="cpp">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/vLnPwxZdW4Y" title="C++ Video" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="card-body">
+                    <div class="meta-tags">
+                        <span class="badge">C++</span>
+                        <span class="level">Expert</span>
+                    </div>
+                    <h3>C++ Algorithms</h3>
+                    <p>Deep dive into data structures and competitive coding.</p>
+                </div>
+            </div>
+
+            <div class="course-card" data-category="python">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/rfscVS0vtbw" title="Python Video" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="card-body">
+                    <div class="meta-tags">
+                        <span class="badge">Python</span>
+                        <span class="level">Beginner</span>
+                    </div>
+                    <h3>Python for Everyone</h3>
+                    <p>Learn automation, scripting, and basic data science.</p>
+                </div>
+            </div>
+
+            <div class="course-card" data-category="react">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/bMknfKXIFA8" title="React Video" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="card-body">
+                    <div class="meta-tags">
+                        <span class="badge">React</span>
+                        <span class="level">Intermediate</span>
+                    </div>
+                    <h3>React.js Masterclass</h3>
+                    <p>Build powerful single-page applications with components.</p>
+                </div>
+            </div>
+
+        </div>
+    </main>
+<section class="cta-section">
+    <div class="cta-container">
+        <div class="cta-text">
+            <h2>Ready to start your project?</h2>
+            <p>Join 50,000+ developers getting weekly coding tips and free resources directly in their inbox.</p>
+        </div>
+        <div class="cta-form">
+            <form id="newsletterForm">
+                <input type="email" placeholder="Enter your email address" required>
+                <button type="submit" class="btn-subscribe">Subscribe Now</button>
+            </form>
+            <p class="form-note">No spam, only pure knowledge. Unsubscribe anytime.</p>
+        </div>
+    </div>
+</section>
+    <footer class="footer">
+        <div class="footer-content">
+            <h3>EduStream<span>.</span></h3>
+            <p>Changing the way people learn code, one video at a time.</p>
+            <div class="social-links">
+                <a href="#">YouTube</a>
+                <a href="#">GitHub</a>
+                <a href="#">Discord</a>
+            </div>
+            <hr style="margin: 30px 0; border: 0; border-top: 1px solid rgba(255,255,255,0.1);">
+            <p class="copyright">&copy; 2026 EduStream Learning System. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="learn.js"></script>
+</body>
+</html>
